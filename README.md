@@ -1,2 +1,2 @@
 # Farming
-This is a Farming simulator game.
+This is a 3D Farming simulator game.
